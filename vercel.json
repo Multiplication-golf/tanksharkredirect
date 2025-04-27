@@ -4,6 +4,11 @@
       "source": "/:path*",
       "destination": "https://tankshark.fun/:path*",
       "permanent": true
+    },
+    {
+      "source": "/",
+      "destination": "https://tankshark.fun/",
+      "permanent": true
     }
   ]
 }
